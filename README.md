@@ -2,5 +2,5 @@
 
 Script com as minhas resoluções dos problemas dados no evento 
 
-## Mais iinformações
+## Mais informações
 https://www.mercadolibre.com/itchallenge/index-pt.html
